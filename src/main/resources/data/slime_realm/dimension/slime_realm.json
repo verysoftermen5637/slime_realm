@@ -1,0 +1,11 @@
+{
+  "type": "slime_realm:slime_realm",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "slime_realm:slime_plains"
+    }
+  }
+}

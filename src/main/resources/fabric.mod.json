@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "slime_realm",
+  "version": "${version}",
+  "name": "Slime Realm",
+  "description": "Enter the gelatinous, bouncy Slime Realm dimension! Discover Slime Wood, bouncy leaves, glowing Slime Ore, powerful tools with recoil & slowness, and bouncy Slime Boots.",
+  "authors": [
+    "SlimeDev"
+  ],
+  "contact": {
+    "homepage": "https://github.com/example/slime_realm",
+    "sources": "https://github.com/example/slime_realm"
+  },
+  "license": "MIT",
+  "icon": "assets/slime_realm/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.slimerealm.SlimeRealmMod"
+    ],
+    "client": [
+      "net.slimerealm.client.SlimeRealmClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": ">=0.91.0"
+  }
+}

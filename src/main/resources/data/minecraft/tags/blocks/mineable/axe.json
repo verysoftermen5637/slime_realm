@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "slime_realm:slime_log",
+    "slime_realm:stripped_slime_log",
+    "slime_realm:slime_planks",
+    "slime_realm:slime_slab",
+    "slime_realm:slime_stairs",
+    "slime_realm:slime_fence",
+    "slime_realm:slime_fence_gate"
+  ]
+}

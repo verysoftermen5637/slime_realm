@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "slime_realm:block/slime_slab"
+    },
+    "type=top": {
+      "model": "slime_realm:block/slime_slab_top"
+    },
+    "type=double": {
+      "model": "slime_realm:block/slime_planks"
+    }
+  }
+}

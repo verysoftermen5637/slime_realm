@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "slime_realm:slime_ingot"
+    }
+  },
+  "result": {
+    "item": "slime_realm:slime_leggings",
+    "count": 1
+  }
+}

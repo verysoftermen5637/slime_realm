@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "slime_realm:slime_gem"
+  },
+  "result": "slime_realm:slime_ingot",
+  "experience": 0.5,
+  "cookingtime": 200
+}

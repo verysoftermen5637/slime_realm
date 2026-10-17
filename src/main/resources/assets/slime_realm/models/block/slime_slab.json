@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "slime_realm:block/slime_planks",
+    "top": "slime_realm:block/slime_planks",
+    "side": "slime_realm:block/slime_planks"
+  }
+}

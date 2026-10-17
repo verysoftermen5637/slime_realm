@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "slime_realm:slime_ore",
+    "slime_realm:deepslate_slime_ore",
+    "slime_realm:gelstone",
+    "slime_realm:gelstone_bricks"
+  ]
+}

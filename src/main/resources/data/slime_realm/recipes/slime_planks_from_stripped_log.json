@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slime_realm:stripped_slime_log"
+    }
+  ],
+  "result": {
+    "item": "slime_realm:slime_planks",
+    "count": 4
+  }
+}

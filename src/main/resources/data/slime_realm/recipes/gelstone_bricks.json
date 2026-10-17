@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "slime_realm:gelstone"
+    }
+  },
+  "result": {
+    "item": "slime_realm:gelstone_bricks",
+    "count": 4
+  }
+}

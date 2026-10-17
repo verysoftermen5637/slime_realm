@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "slime_realm:block/stripped_slime_log"
+    },
+    "axis=z": {
+      "model": "slime_realm:block/stripped_slime_log_horizontal",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "slime_realm:block/stripped_slime_log_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

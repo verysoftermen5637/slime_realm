@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "slime_realm:block/slime_portal_ew"
+    },
+    "axis=z": {
+      "model": "slime_realm:block/slime_portal_ns"
+    }
+  }
+}

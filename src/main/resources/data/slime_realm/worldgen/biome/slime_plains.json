@@ -1,0 +1,78 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.8,
+  "downfall": 0.8,
+  "effects": {
+    "sky_color": 2088820,
+    "fog_color": 1354058,
+    "water_color": 3071856,
+    "water_fog_color": 1146938,
+    "grass_color": 3796844,
+    "foliage_color": 3006050,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    }
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:slime",
+        "weight": 80,
+        "minCount": 2,
+        "maxCount": 5
+      },
+      {
+        "type": "slime_realm:gelatinous_creeper",
+        "weight": 45,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "creature": [
+      {
+        "type": "slime_realm:slime_golem",
+        "weight": 15,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [],
+    "water_creature": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [
+      "slime_realm:slime_terrain",
+      "slime_realm:slime_spire"
+    ],
+    [],
+    [
+      "slime_realm:slime_dungeon",
+      "slime_realm:slime_village"
+    ],
+    [],
+    [
+      "slime_realm:slime_ore"
+    ],
+    [],
+    [],
+    [
+      "slime_realm:slime_tree"
+    ],
+    []
+  ]
+}
